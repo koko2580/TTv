@@ -1,0 +1,9 @@
+{
+  "name": "TokSave AI",
+  "description": "Premium video downloader for TikTok, IG, and YouTube Shorts with Neumorphic design.",
+  "requestFramePermissions": [
+    "clipboard-read",
+    "clipboard-write"
+  ],
+  "majorCapabilities": []
+}
